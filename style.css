@@ -14,7 +14,7 @@
     float: left;
     font-size: 45px;
     font-weight: bold;
-    line-height: 110px;
+    line-height: 120px;
     color: white;
     text-shadow: 5px 5px 10px black;
 }
@@ -140,10 +140,6 @@
     margin-right: 50px;
 }
 
-.download-text{
-    font-size: 30px;
-    padding: 0px 20px;
-}
 .strong{
     font-size: 40px;
 }
